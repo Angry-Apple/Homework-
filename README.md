@@ -1,2 +1,2 @@
-# Homework-
+# Homework
 My first repo
